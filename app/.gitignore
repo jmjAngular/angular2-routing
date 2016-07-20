@@ -1,0 +1,7 @@
+#ignore js file and map files
+## These files can created after compilation
+## Uses npm start for compile
+
+*.map
+*.js
+
